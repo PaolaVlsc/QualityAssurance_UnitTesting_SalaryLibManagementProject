@@ -85,9 +85,9 @@ The `SalaryLib` library can be incorporated into C# applications for convenient 
 
 ### SalaryLibUnitTests
 
-### Overview
+### Overview SalaryLibUnitTests.cs
 
-This repository contains a series of unit tests for the "Salary Lib" library. The "Salary Lib" library is designed to calculate salary-related information for employees based on various parameters such as qualifications, experience, and personal details.
+Contains a series of unit tests for the "Salary Lib" library.
 
 ### Testing the "Salary Lib" Library
 
