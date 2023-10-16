@@ -1,14 +1,9 @@
-# SalaryLib
+# SalaryLib C# Library
 
 
 ## Part A: Salary Management Lib
 
 This C# code, SalaryLib.cs, is a class file for a library named "SalaryLib" that provides various functions and methods related to salary calculations, age calculations, and more. Here's an explanation of its main components and methods:
-
-# SalaryLib C# Library
-
-**Author:** Velasco Paola  
-**Date:** 18 February 2022
 
 ## Overview
 
