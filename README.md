@@ -129,7 +129,7 @@ The unit tests in this repository cover multiple aspects of the "Salary Lib" lib
 </div>
 10. Results
 <div align="center">
-  <img src="https://github.com/PaolaVlsc/QualityAssurance_UnitTesting_SalaryLibManagementProject/assets/87998374/182f988f-f078-4f79-bbfc-79c8664ef9a1" alt="Image 4" width="50%">
+  <img src="https://github.com/PaolaVlsc/QualityAssurance_UnitTesting_SalaryLibManagementProject/assets/87998374/182f988f-f078-4f79-bbfc-79c8664ef9a1" alt="Image 4" width="70%">
 </div>
 
 ## Author
