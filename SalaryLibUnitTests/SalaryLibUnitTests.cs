@@ -7,7 +7,6 @@
 
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
-using SalaryLib;
 using static SalaryLib.SalaryLib;
 
 
