@@ -78,9 +78,6 @@ The `SalaryLib` is a C# library that provides a collection of methods for variou
 - **Input:** Array of `Employee` objects.
 - **Output:** Returns the maximum net income.
 
-### Usage
-
-The `SalaryLib` library can be incorporated into C# applications for convenient salary and employee-related calculations. To use it, simply include the library in your project and call the relevant methods with the required inputs. Please refer to the code and method descriptions for specific usage details.
 
 ## Part B: Unit Testing on SalaryLib
 
