@@ -5,6 +5,8 @@ VisualStudioVersion = 17.7.34202.233
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalaryLib", "SalaryLib\SalaryLib.csproj", "{E9DAE59E-6D61-4B2F-9058-D10100C368E7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalaryLibUnitTests", "SalaryLibUnitTests\SalaryLibUnitTests.csproj", "{FFCBD439-62A7-4714-8C63-B08B1BF10B30}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{E9DAE59E-6D61-4B2F-9058-D10100C368E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E9DAE59E-6D61-4B2F-9058-D10100C368E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E9DAE59E-6D61-4B2F-9058-D10100C368E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFCBD439-62A7-4714-8C63-B08B1BF10B30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFCBD439-62A7-4714-8C63-B08B1BF10B30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFCBD439-62A7-4714-8C63-B08B1BF10B30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFCBD439-62A7-4714-8C63-B08B1BF10B30}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
