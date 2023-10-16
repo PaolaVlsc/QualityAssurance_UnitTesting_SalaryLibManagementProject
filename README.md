@@ -19,7 +19,7 @@ It combines functions related to age calculation, IBAN validation, salary comput
 - [Part B: Unit Testing on SalaryLib](#part-b-unit-testing-on-salarylib)
   - [SalaryLibUnitTests](#salarylibunittests)
   - [Overview](#overview)
-  - [Testing the "Salary Lib" Library](#testing-the-salary-lib-library)
+  - [Unit Tests](#testing-the-salary-lib-library)
 
 ## Part A: Salary Management Lib
 
