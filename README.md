@@ -137,4 +137,4 @@ The unit tests in this repository cover multiple aspects of the "Salary Lib" lib
 This project was written by Velasco Paola
 
 ## Extras
-Report Paper in greek: [Report Paper]()
+Report Paper in greek: [Report Paper](https://github.com/PaolaVlsc/QualityAssurance_UnitTesting_SalaryLibManagementProject/blob/master/Extras/project2022_lab_final.pdf)
