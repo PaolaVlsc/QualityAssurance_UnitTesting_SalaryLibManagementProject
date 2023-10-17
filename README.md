@@ -16,7 +16,7 @@ It combines functions related to age calculation, IBAN validation, salary comput
   - [Usage](#usage)
 - [Part B: Unit Testing on SalaryLib](#part-b-unit-testing-on-salarylib)
   - [SalaryLibUnitTests](#salarylibunittests)
-  - [Overview](#overview-salaryLibUnitTests.cs)
+  - [Overview](#overview-salaryLibunittests.cs)
   - [Unit Tests](#testing-the-salary-lib-library)
 - [How To Run](#how-to-run)
 - [Author](#author)
@@ -135,3 +135,4 @@ This project was written by Velasco Paola
 
 ## Extras
 Report Paper in greek: [Report Paper](https://github.com/PaolaVlsc/QualityAssurance_UnitTesting_SalaryLibManagementProject/blob/master/Extras/project2022_lab_final.pdf)
+Εκφώνηση: [here](https://github.com/PaolaVlsc/QualityAssurance_UnitTesting_SalaryLibManagementProject/blob/master/Extras/%CE%95%CE%BA%CF%86%CF%8E%CE%BD%CE%B7%CF%83%CE%B7%20%CE%95%CF%81%CE%B3%CE%B1%CF%83%CF%84.%20%CE%95%CF%81%CE%B3..pdf)
