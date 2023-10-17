@@ -16,7 +16,6 @@ It combines functions related to age calculation, IBAN validation, salary comput
   - [Usage](#usage)
 - [Part B: Unit Testing on SalaryLib](#part-b-unit-testing-on-salarylib)
   - [SalaryLibUnitTests](#salarylibunittests)
-  - [Overview](#overview-salaryLibunittests-.-cs)
   - [Unit Tests](#testing-the-salary-lib-library)
 - [How To Run](#how-to-run)
 - [Author](#author)
@@ -82,9 +81,6 @@ The `SalaryLib` is a C# library that provides a collection of methods for variou
 ## Part B: Unit Testing on SalaryLib
 
 ### SalaryLibUnitTests
-
-### Overview SalaryLibUnitTests.cs
-
 Contains a series of unit tests for the "Salary Lib" library.
 
 ### Testing the "Salary Lib" Library
@@ -114,11 +110,11 @@ The unit tests in this repository cover multiple aspects of the "Salary Lib" lib
 6. Rename the cs file to "SalaryLibUnitTests.cs" and get the econtent from this repository file "SalaryLibUnitTests
 7. Make sure that System.Numeric is added on the library references
 <div align="center">
-  <img src="https://github.com/PaolaVlsc/QualityAssurance_UnitTesting_SalaryLibManagementProject/assets/87998374/de365b05-2a6b-4572-a45d-c9024de6cc7e" alt="Image 1" width="30%">
+  <img src="https://github.com/PaolaVlsc/QualityAssurance_UnitTesting_SalaryLibManagementProject/assets/87998374/cf46e375-1dc3-461d-9e59-f9dbf26eb28b" alt="Image 2" width="30%">
 </div>
 8. Add SalaryLib as reference in the SalaryLibUnitTests.cs
 <div align="center">
-  <img src="https://github.com/PaolaVlsc/QualityAssurance_UnitTesting_SalaryLibManagementProject/assets/87998374/cf46e375-1dc3-461d-9e59-f9dbf26eb28b" alt="Image 2" width="30%">
+  <img src="https://github.com/PaolaVlsc/QualityAssurance_UnitTesting_SalaryLibManagementProject/assets/87998374/de365b05-2a6b-4572-a45d-c9024de6cc7e" alt="Image 1" width="30%">
 </div>
 9. Your project hiererachy should look like this
 <div align="center">
