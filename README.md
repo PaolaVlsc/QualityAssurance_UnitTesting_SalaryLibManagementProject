@@ -101,26 +101,9 @@ The unit tests in this repository cover multiple aspects of the "Salary Lib" lib
 
 
 ## How to run 
-
-1. Install Visual Studio and .net framework
-2. Create New project > Class Library .net Framework
-3. Rename the cs file to "SalaryLib.cs" and copy paste the content from this repository "SalaryLib.cs"
-4. Build to see if there are errors.
-5. On the solution, right click and create a new project > Unit Test .net Framework
-6. Rename the cs file to "SalaryLibUnitTests.cs" and get the econtent from this repository file "SalaryLibUnitTests
-7. Make sure that System.Numeric is added on the library references
-<div align="center">
-  <img src="https://github.com/PaolaVlsc/QualityAssurance_UnitTesting_SalaryLibManagementProject/assets/87998374/cf46e375-1dc3-461d-9e59-f9dbf26eb28b" alt="Image 2" width="30%">
-</div>
-8. Add SalaryLib as reference in the SalaryLibUnitTests.cs
-<div align="center">
-  <img src="https://github.com/PaolaVlsc/QualityAssurance_UnitTesting_SalaryLibManagementProject/assets/87998374/de365b05-2a6b-4572-a45d-c9024de6cc7e" alt="Image 1" width="30%">
-</div>
-9. Your project hiererachy should look like this
-<div align="center">
-  <img src="https://github.com/PaolaVlsc/QualityAssurance_UnitTesting_SalaryLibManagementProject/assets/87998374/e3c3d3bc-b976-440a-b52f-5d146404154e" alt="Image 3" width="30%">
-</div>
-10. Results
+1. Open solution in Visual Studio 2022
+2. Run Tests All
+3. Results
 <div align="center">
   <img src="https://github.com/PaolaVlsc/QualityAssurance_UnitTesting_SalaryLibManagementProject/assets/87998374/182f988f-f078-4f79-bbfc-79c8664ef9a1" alt="Image 4" width="70%">
 </div>
