@@ -1,7 +1,9 @@
 # SalaryLib C# Library
+
 It combines functions related to age calculation, IBAN validation, salary computation, and more, to help manage financial and employees.
 
 **Table of Contents**
+
 - [Part A: Salary Management Lib](#part-a-salary-management-lib)
   - [Overview](#overview)
   - [Methods and Features](#methods-and-features)
@@ -77,10 +79,10 @@ The `SalaryLib` is a C# library that provides a collection of methods for variou
 - **Input:** Array of `Employee` objects.
 - **Output:** Returns the maximum net income.
 
-
 ## Part B: Unit Testing on SalaryLib
 
 ### SalaryLibUnitTests
+
 Contains a series of unit tests for the "Salary Lib" library.
 
 ### Testing the "Salary Lib" Library
@@ -99,8 +101,8 @@ The unit tests in this repository cover multiple aspects of the "Salary Lib" lib
 
 6. **TestMaxNetIncome**: It creates test cases with sample employee data, calls the MaxNetIncome method, and checks whether the result matches the expected output.
 
+## How to run
 
-## How to run 
 1. Open solution in Visual Studio 2022
 2. Run Tests All
 3. Results
@@ -110,9 +112,10 @@ The unit tests in this repository cover multiple aspects of the "Salary Lib" lib
 
 ## Author
 
-This project was written by Velasco Paola
+This project was written by Velasco Paola 2022
 
 ## Extras
+
 Report Paper in greek: [Report Paper](https://github.com/PaolaVlsc/QualityAssurance_UnitTesting_SalaryLibManagementProject/blob/master/Extras/project2022_lab_final.pdf)
 
 Εκφώνηση: [here](https://github.com/PaolaVlsc/QualityAssurance_UnitTesting_SalaryLibManagementProject/blob/master/Extras/%CE%95%CE%BA%CF%86%CF%8E%CE%BD%CE%B7%CF%83%CE%B7%20%CE%95%CF%81%CE%B3%CE%B1%CF%83%CF%84.%20%CE%95%CF%81%CE%B3..pdf)
